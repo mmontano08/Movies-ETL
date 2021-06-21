@@ -1,1 +1,1 @@
-db_password = 'Studies13579!@#'
+db_password = '**********'
